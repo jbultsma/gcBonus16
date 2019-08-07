@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\bin\Debug\netcoreapp2.1\gcBonus16.deps.json
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\bin\Debug\netcoreapp2.1\gcBonus16.runtimeconfig.json
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\bin\Debug\netcoreapp2.1\gcBonus16.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\bin\Debug\netcoreapp2.1\gcBonus16.dll
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\bin\Debug\netcoreapp2.1\gcBonus16.pdb
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\obj\Debug\netcoreapp2.1\gcBonus16.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\obj\Debug\netcoreapp2.1\gcBonus16.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\obj\Debug\netcoreapp2.1\gcBonus16.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\obj\Debug\netcoreapp2.1\gcBonus16.AssemblyInfo.cs
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\obj\Debug\netcoreapp2.1\gcBonus16.dll
+C:\Users\joshu\source\repos\gcBonus16\gcBonus16\obj\Debug\netcoreapp2.1\gcBonus16.pdb
